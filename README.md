@@ -16,9 +16,9 @@ I am a Computer Engineering student at **Universidade da Coruña (UDC)**.
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![React](https://skillicons.dev/icons?i=react)
 ![Elixir](https://skillicons.dev/icons?i=elixir)
+![Erlang](https://img.shields.io/badge/Erlang-A90533?style=for-the-badge&logo=erlang&logoColor=white)
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
 ![C](https://skillicons.dev/icons?i=c)
-![C++](https://skillicons.dev/icons?i=cpp)
 ![Spring](https://skillicons.dev/icons?i=spring)
 ![FastAPI](https://skillicons.dev/icons?i=fastapi)
 ![Flutter](https://skillicons.dev/icons?i=flutter)
@@ -28,15 +28,10 @@ I am a Computer Engineering student at **Universidade da Coruña (UDC)**.
 
 **Database Management**
 
-![Firebase](https://skillicons.dev/icons?i=firebase)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Cassandra](https://skillicons.dev/icons?i=cassandra)
-![Elasticsearch](https://skillicons.dev/icons?i=elasticsearch)
-![Redis](https://skillicons.dev/icons?i=redis)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Prisma](https://skillicons.dev/icons?i=prisma)
-![Kafka](https://skillicons.dev/icons?i=kafka)
 
 **Tools / Software**
 
@@ -44,16 +39,9 @@ I am a Computer Engineering student at **Universidade da Coruña (UDC)**.
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![Bash](https://skillicons.dev/icons?i=bash)
 ![Docker](https://skillicons.dev/icons?i=docker)
-![Figma](https://skillicons.dev/icons?i=figma)
-![LaTeX](https://skillicons.dev/icons?i=latex)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![CLion](https://skillicons.dev/icons?i=clion)
 ![IntelliJ](https://skillicons.dev/icons?i=idea)
 ![MATLAB](https://skillicons.dev/icons?i=matlab)
 
 ---
-
-### 📬 Contact
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/tiago-volta)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/tiago.volta)
