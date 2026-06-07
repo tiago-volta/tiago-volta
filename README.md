@@ -10,40 +10,43 @@ Desarrollo full-stack en proyectos académicos y personales.
 
 ---
 
-## Proyectos destacados
+### 🛠️ Tech Stack
 
-| Proyecto | Descripción | Stack |
-| --- | --- | --- |
-| [**AS-UDC**](https://github.com/tiago-volta/AS-UDC) | **EventPulse** — plataforma en tiempo real para eventos en directo (chat, votaciones, clúster Docker) | Elixir, Phoenix LiveView, PostgreSQL, Redis, Docker |
-| [**PA-UDC**](https://github.com/tiago-volta/PA-UDC) | **PA Cinema** — venta de entradas de cine con tests E2E | Spring Boot, React, Redux, MySQL, Selenium |
-| [**IPM-UDC**](https://github.com/tiago-volta/IPM-UDC) | **SplitWithMe** — ecosistema multiplataforma para repartir gastos | FastAPI, Flutter, GTK, HTML/CSS/JS |
-| [**ISD-UDC**](https://github.com/tiago-volta/ISD-UDC) | Servicio distribuido de encuestas con acceso REST y Thrift | Java, Maven, MySQL, Apache Thrift |
-| [**ig-medication-adherence**](https://github.com/tiago-volta/ig-medication-adherence) | Guía de implementación FHIR sobre adherencia a medicación | FHIR, FSH, SUSHI, IG Publisher |
-| [**HackUDC-2026**](https://github.com/tiago-volta/HackUDC-2026) | Proyecto desarrollado en HackUDC 2026 | JavaScript, TypeScript |
+**Programming Languages & Frameworks**
 
----
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
+![Java](https://skillicons.dev/icons?i=java)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![React](https://skillicons.dev/icons?i=react)
+![Elixir](https://skillicons.dev/icons?i=elixir)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![C](https://skillicons.dev/icons?i=c)
+![Spring](https://skillicons.dev/icons?i=spring)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![Flutter](https://skillicons.dev/icons?i=flutter)
+![Python](https://skillicons.dev/icons?i=python)
+![OCaml](https://skillicons.dev/icons?i=ocaml)
+![R](https://skillicons.dev/icons?i=r)
 
-## Tecnologías
+**Database Management**
 
-**Lenguajes**
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Prisma](https://skillicons.dev/icons?i=prisma)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+**Tools / Software**
 
-**Frameworks y herramientas**
-
-![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Bash](https://skillicons.dev/icons?i=bash)
+![Docker](https://skillicons.dev/icons?i=docker)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![CLion](https://skillicons.dev/icons?i=clion)
+![IntelliJ](https://skillicons.dev/icons?i=idea)
+![MATLAB](https://skillicons.dev/icons?i=matlab)
 
 ---
 
