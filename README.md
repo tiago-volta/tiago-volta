@@ -51,7 +51,7 @@ Desarrollo full-stack en proyectos académicos y personales.
 
 - Estudiante de 3.º curso en la Facultad de Informática de A Coruña.
 - Experiencia en proyectos en equipo con metodologías ágiles.
-- Idiomas: portugués (nativo), español e inglés (fluidos).
+- Idiomas: portugués (nativo), español e inglés (fluidos), francés (en formación).
 
 ---
 
