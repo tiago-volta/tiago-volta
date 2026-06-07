@@ -20,12 +20,16 @@ Desarrollo full-stack en proyectos académicos y personales.
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![React](https://skillicons.dev/icons?i=react)
+![Redux](https://skillicons.dev/icons?i=redux)
+![Vite](https://skillicons.dev/icons?i=vite)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 ![Elixir](https://skillicons.dev/icons?i=elixir)
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
 ![C](https://skillicons.dev/icons?i=c)
 ![Spring](https://skillicons.dev/icons?i=spring)
 ![FastAPI](https://skillicons.dev/icons?i=fastapi)
 ![Flutter](https://skillicons.dev/icons?i=flutter)
+![Dart](https://skillicons.dev/icons?i=dart)
 ![Python](https://skillicons.dev/icons?i=python)
 ![OCaml](https://skillicons.dev/icons?i=ocaml)
 ![R](https://skillicons.dev/icons?i=r)
@@ -35,7 +39,7 @@ Desarrollo full-stack en proyectos académicos y personales.
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Prisma](https://skillicons.dev/icons?i=prisma)
+![Redis](https://skillicons.dev/icons?i=redis)
 
 **Tools / Software**
 
@@ -43,6 +47,7 @@ Desarrollo full-stack en proyectos académicos y personales.
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![Bash](https://skillicons.dev/icons?i=bash)
 ![Docker](https://skillicons.dev/icons?i=docker)
+![NGINX](https://skillicons.dev/icons?i=nginx)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![CLion](https://skillicons.dev/icons?i=clion)
 ![IntelliJ](https://skillicons.dev/icons?i=idea)
