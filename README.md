@@ -63,7 +63,3 @@ Desarrollo full-stack en proyectos académicos y personales.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tiago-volta&show_icons=true&theme=default&hide_border=true&count_private=false" alt="GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-volta&layout=compact&theme=default&hide_border=true" alt="Top languages" height="150" />
-</p>
