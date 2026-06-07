@@ -16,7 +16,6 @@ I am a Computer Engineering student at **Universidade da Coruña (UDC)**.
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![React](https://skillicons.dev/icons?i=react)
 ![Elixir](https://skillicons.dev/icons?i=elixir)
-![Erlang](https://img.shields.io/badge/Erlang-A90533?style=for-the-badge&logo=erlang&logoColor=white)
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
 ![C](https://skillicons.dev/icons?i=c)
 ![Spring](https://skillicons.dev/icons?i=spring)
