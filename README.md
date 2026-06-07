@@ -3,11 +3,10 @@
 **Estudiante de Ingeniería Informática · Mención Ingeniería del Software**  
 Universidade da Coruña (UDC)
 
-Desarrollo full-stack en proyectos académicos y personales. Busco prácticas en equipos que construyan software real para la industria.
+Desarrollo full-stack en proyectos académicos y personales. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tiago--volta2-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tiago-volta2)
 [![Email](https://img.shields.io/badge/Email-tiagovolta2@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tiagovolta2@gmail.com)
-[![Website](https://img.shields.io/badge/Web-adega--floresta.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://adega-floresta.vercel.app)
 
 ---
 
