@@ -7,6 +7,7 @@ Desarrollo full-stack en proyectos académicos y personales.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tiago--volta2-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tiago-volta2)
 [![Email](https://img.shields.io/badge/Email-tiagovolta2@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tiagovolta2@gmail.com)
+[![Instagram](https://img.shields.io/badge/@desaparecidafc-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/desaparecidafc)
 
 ---
 
@@ -60,6 +61,10 @@ Desarrollo full-stack en proyectos académicos y personales.
 - Estudiante de 3.º curso en la Facultad de Informática de A Coruña.
 - Experiencia en proyectos en equipo con metodologías ágiles.
 - Idiomas: portugués (nativo), español e inglés (fluidos), francés (en formación).
+
+### Proyectos personales
+
+- **[Desaparecida FC](https://github.com/tiago-volta/DesaparecidaFC)** — Toolkit React para contenido de Instagram del club · [@desaparecidafc](https://instagram.com/desaparecidafc)
 
 ---
 
