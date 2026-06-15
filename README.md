@@ -56,15 +56,15 @@ Desarrollo full-stack en proyectos académicos y personales.
 
 ---
 
-## Sobre mí
+## About me
 
-- Estudiante de 3.º curso en la Facultad de Informática de A Coruña.
-- Experiencia en proyectos en equipo con metodologías ágiles.
-- Idiomas: portugués (nativo), español e inglés (fluidos), francés (en formación).
+- 3rd-year student at the Faculty of Computer Science, Universidade da Coruña.
+- Experience in team projects using agile methodologies.
+- Languages: Portuguese (native), Spanish and English (fluent), French (learning).
 
-### Proyectos personales
+### Personal projects
 
-- **[Desaparecida FC](https://github.com/tiago-volta/DesaparecidaFC)** — Toolkit React para contenido de Instagram del club · [@desaparecidafc](https://instagram.com/desaparecidafc)
+- **[Desaparecida FC](https://github.com/tiago-volta/DesaparecidaFC)** — React toolkit for the club's Instagram content · [@desaparecidafc](https://instagram.com/desaparecidafc)
 
 ---
 
