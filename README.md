@@ -21,9 +21,7 @@ Desarrollo full-stack en proyectos académicos y personales.
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![React](https://skillicons.dev/icons?i=react)
 ![Redux](https://skillicons.dev/icons?i=redux)
-![Vite](https://skillicons.dev/icons?i=vite)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-![Elixir](https://skillicons.dev/icons?i=elixir)
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
 ![C](https://skillicons.dev/icons?i=c)
 ![Spring](https://skillicons.dev/icons?i=spring)
@@ -32,7 +30,6 @@ Desarrollo full-stack en proyectos académicos y personales.
 ![Dart](https://skillicons.dev/icons?i=dart)
 ![Python](https://skillicons.dev/icons?i=python)
 ![OCaml](https://skillicons.dev/icons?i=ocaml)
-![R](https://skillicons.dev/icons?i=r)
 
 **Database Management**
 
@@ -57,7 +54,7 @@ Desarrollo full-stack en proyectos académicos y personales.
 
 ## About me
 
-- 3rd-year student at the Faculty of Computer Science, Universidade da Coruña.
+- 4th-year student at the Faculty of Computer Science, Universidade da Coruña.
 - Experience in team projects using agile methodologies.
 - Languages: Portuguese (native), Spanish and English (fluent), French (learning).
 
