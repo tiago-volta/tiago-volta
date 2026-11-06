@@ -44,7 +44,6 @@ Desarrollo full-stack en proyectos académicos y personales.
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![Bash](https://skillicons.dev/icons?i=bash)
 ![Docker](https://skillicons.dev/icons?i=docker)
-![NGINX](https://skillicons.dev/icons?i=nginx)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![CLion](https://skillicons.dev/icons?i=clion)
 ![IntelliJ](https://skillicons.dev/icons?i=idea)
