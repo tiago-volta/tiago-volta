@@ -68,8 +68,8 @@ Desarrollo full-stack en proyectos académicos y personales.
 
 ### Websites
 
-- **[Adega Floresta](https://adegafloresta.com)** — restaurant site, Porto
-- **[Petisqueira Voltaria](https://petisqueiravoltaria.com)** — petisqueira site, Porto
+- **[Adega Floresta](https://adegafloresta.com)** — restaurant site
+- **[Petisqueira Voltaria](https://petisqueiravoltaria.com)** — restaurant site
 - **[Zeta Automotive](https://zeta-automotive.vercel.app/)** — auto parts catalog
 
 ---
