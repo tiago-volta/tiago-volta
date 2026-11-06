@@ -64,7 +64,7 @@ Desarrollo full-stack en proyectos académicos y personales.
 
 ### Personal projects
 
-- **[Desaparecida FC](https://github.com/tiago-volta/DesaparecidaFC)** — React toolkit for the club's Instagram content · [@desaparecidafc](https://instagram.com/desaparecidafc)
+- **[Desaparecida FC](https://github.com/tiago-volta/DesaparecidaFC)** — React toolkit for the club's Instagram content, fully automated with a Grok bot · [@desaparecidafc](https://instagram.com/desaparecidafc)
 
 ### Websites
 
