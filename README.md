@@ -44,8 +44,6 @@ Desarrollo full-stack en proyectos académicos y personales.
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![GitLab](https://skillicons.dev/icons?i=gitlab)
 ![Jenkins](https://skillicons.dev/icons?i=jenkins)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![Redmine](https://img.shields.io/badge/Redmine-B32024?style=for-the-badge&logo=redmine&logoColor=white)
 ![Bash](https://skillicons.dev/icons?i=bash)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
@@ -67,8 +65,9 @@ Desarrollo full-stack en proyectos académicos y personales.
 
 ### Websites
 
-- **[Adega Floresta](https://adegafloresta.com)** — restaurant site, Porto
-- **[Petisqueira Voltaria](https://petisqueiravoltaria.com)** — petisqueira site, Porto
+- **[Adega Floresta](https://adegafloresta.com)** — restaurant site
+- **[Petisqueira Voltaria](https://petisqueiravoltaria.com)** — petisqueira site
 - **[Zeta Automotive](https://zeta-automotive.vercel.app/)** — auto parts catalog
+- 
 
 ---
